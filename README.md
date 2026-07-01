@@ -1,28 +1,38 @@
-# Netflix Clone Web Application
+# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ## 📌 Project Overview
-This project is a Netflix Clone web application developed as an academic project to demonstrate
-cloud deployment and DevOps fundamentals. It replicates the basic UI and functionality of Netflix,
-including responsive design and cloud-based deployment.
+This Netflix Clone Web Application is a DevSecOps-focused academic project designed
+to demonstrate a complete CI/CD pipeline with security integration.
+The project showcases automated build, test, security scanning, containerization, and 
+deployment on the cloud using modern DevOps and DevSecOps tools.
+
+The application replicates the Netflix UI while emphasizing real-world DevOps 
+workflows, container orchestration, and continuous security practices.
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Cloud Platform: AWS
-- DevOps Tools: Docker, Git, GitHub
+- DevOps Tools: Git, GitHub, Docker, Kubernetes, Jenkins, Maven, Sonarqube, Trivy 
 - Deployment: EC2 / Cloud Hosting
 
 ## 🚀 Features
-- Responsive Netflix-style UI
-- Homepage with movie banners
-- Multiple content sections
-- Cloud deployment using DevOps workflow
-- Version control using GitHub
+- Netflix-style responsive user interface
+- Automated CI/CD pipeline using Jenkins
+- Docker-based containerized application
+- Kubernetes-based deployment and scaling
+- Continuous code quality analysis using SonarQube
+- Security vulnerability scanning using Trivy
+- Cloud deployment on AWS infrastructure
+- Version-controlled workflow using GitHub
 
 ## 🧩 System Architecture
-1. Frontend application developed using HTML, CSS, JavaScript
-2. Docker used for containerization
-3. Application deployed on cloud server (AWS EC2)
-4. GitHub used for version control and CI workflow
+1. Frontend developed using HTML, CSS, and JavaScript
+2. Jenkins handles automated build, test, and deployment
+3. Docker ensures consistent containerized environments
+4. Kubernetes manages container orchestration and deployment
+5. SonarQube enforces code quality standards
+6. Trivy enhances security through vulnerability scanning
+7. AWS EC2 hosts the Kubernetes-based deployment
 
 ## 📷 Screenshot
 
@@ -37,10 +47,12 @@ open index.html
 ```
 
 ## 📚 Learning Outcomes
-- Hands-on experience with cloud deployment
-- Understanding of DevOps lifecycle
-- Practical exposure to Docker & GitHub
-- Improved frontend UI skills
+- Hands-on experience with DevSecOps pipeline implementation  
+- Cloud-based CI/CD automation using Jenkins  
+- Containerization and orchestration using Docker and Kubernetes  
+- Security scanning using Trivy and code quality analysis with SonarQube  
+- Build and dependency management using Maven  
+- Improved frontend UI development and deployment skills
 
 ## 👩‍💻 Author
 **Nupoor Koli**  
