@@ -36,13 +36,13 @@ cd Netflix-Clone
 open index.html
 ```
 
-##📚 Learning Outcomes
+## 📚 Learning Outcomes
 -Hands-on experience with cloud deployment
 -Understanding of DevOps lifecycle
 -Practical exposure to Docker & GitHub
 -Improved frontend UI skills
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Nupoor Koli
 Computer Engineering Student
 GitHub: https://github.com/nkoli28
