@@ -24,7 +24,7 @@ including responsive design and cloud-based deployment.
 3. Application deployed on cloud server (AWS EC2)
 4. GitHub used for version control and CI workflow
 
-## 📷 Screenshots
+## 📷 Screenshot
 
 <img width="1905" height="978" alt="home-page" src="https://github.com/user-attachments/assets/d35fa77b-6425-4d22-92ff-549b3a1757b7" />
 
