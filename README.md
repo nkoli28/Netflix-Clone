@@ -35,13 +35,15 @@ git clone https://github.com/nkoli28/Netflix-Clone.git
 cd Netflix-Clone
 open index.html
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
+```bash
 Hands-on experience with cloud deployment
 Understanding of DevOps lifecycle
 Practical exposure to Docker & GitHub
 Improved frontend UI skills
 
-👩‍💻 Author
+##👩‍💻 Author
+```bash
 Nupoor Koli
 Computer Engineering Student
 GitHub: https://github.com/nkoli28
