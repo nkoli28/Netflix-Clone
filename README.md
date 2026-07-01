@@ -37,10 +37,10 @@ open index.html
 ```
 
 ##📚 Learning Outcomes
-1.Hands-on experience with cloud deployment
-2.Understanding of DevOps lifecycle
-3.Practical exposure to Docker & GitHub
-4.Improved frontend UI skills
+-Hands-on experience with cloud deployment
+-Understanding of DevOps lifecycle
+-Practical exposure to Docker & GitHub
+-Improved frontend UI skills
 
 ##👩‍💻 Author
 Nupoor Koli
