@@ -25,7 +25,9 @@ including responsive design and cloud-based deployment.
 4. GitHub used for version control and CI workflow
 
 ## 📷 Screenshots
-(Add screenshots here if available)
+
+<img width="1905" height="978" alt="home-page" src="https://github.com/user-attachments/assets/d35fa77b-6425-4d22-92ff-549b3a1757b7" />
+
 
 ## ⚙️ How to Run Locally
 ```bash
