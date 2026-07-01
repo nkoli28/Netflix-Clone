@@ -43,8 +43,8 @@ open index.html
 - Improved frontend UI skills
 
 ## 👩‍💻 Author
-Nupoor Koli
-Computer Engineering Student
+**Nupoor Koli**  
+Computer Engineering Student  
 GitHub: https://github.com/nkoli28
 
 
