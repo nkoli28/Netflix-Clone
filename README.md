@@ -34,3 +34,16 @@ including responsive design and cloud-based deployment.
 git clone https://github.com/nkoli28/Netflix-Clone.git
 cd Netflix-Clone
 open index.html
+
+📚 Learning Outcomes
+Hands-on experience with cloud deployment
+Understanding of DevOps lifecycle
+Practical exposure to Docker & GitHub
+Improved frontend UI skills
+
+👩‍💻 Author
+Nupoor Koli
+Computer Engineering Student
+GitHub: https://github.com/nkoli28
+
+
